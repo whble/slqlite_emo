@@ -1,0 +1,11 @@
+E:\yun\c#\slqlite\slqlite_emo\sqlite-emo\sqlite-emo\bin\Debug\sqlite-emo.exe
+E:\yun\c#\slqlite\slqlite_emo\sqlite-emo\sqlite-emo\bin\Debug\sqlite-emo.pdb
+E:\yun\c#\slqlite\slqlite_emo\sqlite-emo\sqlite-emo\obj\Debug\sqlite-emo.csprojResolveAssemblyReference.cache
+E:\yun\c#\slqlite\slqlite_emo\sqlite-emo\sqlite-emo\obj\Debug\sqlite_emo.Properties.Resources.resources
+E:\yun\c#\slqlite\slqlite_emo\sqlite-emo\sqlite-emo\obj\Debug\sqlite-emo.csproj.GenerateResource.Cache
+E:\yun\c#\slqlite\slqlite_emo\sqlite-emo\sqlite-emo\obj\Debug\sqlite-emo.exe
+E:\yun\c#\slqlite\slqlite_emo\sqlite-emo\sqlite-emo\obj\Debug\sqlite-emo.pdb
+E:\yun\c#\slqlite\slqlite_emo\sqlite-emo\sqlite-emo\bin\Debug\System.Data.SQLite.dll
+E:\yun\c#\slqlite\slqlite_emo\sqlite-emo\sqlite-emo\bin\Debug\x64\SQLite.Interop.dll
+E:\yun\c#\slqlite\slqlite_emo\sqlite-emo\sqlite-emo\bin\Debug\x86\SQLite.Interop.dll
+E:\yun\c#\slqlite\slqlite_emo\sqlite-emo\sqlite-emo\bin\Debug\sqlite-emo.exe.config
